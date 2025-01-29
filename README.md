@@ -29,7 +29,7 @@ An iOS application for a fruit shopping experience, showcasing fresh fruits, the
 
 
 ### Home Screen
-<img width="346" alt="Screenshot 2025-01-28 at 14 39 12" src="https://github.com/user-attachments/assets/ebca688b-8f1f-429d-b33a-6c018dd57fd2" />
+![Screenshot 2025-01-28 202914](https://github.com/user-attachments/assets/b51291a5-97da-458d-8427-30107211dc2b)
 
 
 ### Product Details Screen
